@@ -1,0 +1,28 @@
+{
+  "name": "getlastpost",
+  "version": "0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node facebook.js",
+    "clean": "shx rm -rf package-lock.json node_modules",
+    "spot": "shw rm -rf .wwebjs_auth"
+  },
+  "author": "David",
+  "license": "MIT",
+  "devDependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "fluent-ffmpeg": "^2.1.2",
+    "node-fetch": "^2.6.7",
+    "path": "^0.12.7",
+    "puppeteer": "^19.1.0",
+    "qrcode-terminal": "^0.12.0",
+    "sharp": "^0.31.1",
+    "shx": "^0.3.4",
+    "spotify-web-api-node": "^5.0.2",
+    "whatsapp-web.js": "^1.18.0",
+    "ytdl-core": "^4.11.2",
+    "ytsr": "^3.8.0"
+  }
+}
