@@ -18,7 +18,7 @@
     "path": "^0.12.7",
     "puppeteer": "^19.1.0",
     "qrcode-terminal": "^0.12.0",
-    "sharp": "^0.31.1",
+    "sharp": "^0.32.6",
     "shx": "^0.3.4",
     "spotify-web-api-node": "^5.0.2",
     "whatsapp-web.js": "^1.18.0",
